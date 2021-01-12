@@ -1,8 +1,8 @@
-# {APPNAME}
+# Facebook
 
 ![](screenshot.png)
 
-An (unofficial) native MacOS App for {APPNAME}.
+An (unofficial) native MacOS App for Facebook.
 
 # Install
 
@@ -13,21 +13,21 @@ An (unofficial) native MacOS App for {APPNAME}.
 ```bash
 brew tap aubreypwd/homebrew-cask
 brew update
-brew cask install {SLUG}
+brew cask install facebook
 ```
 
 ### Upgrade
 
 ```
 brew update
-brew upgrade {SLUG}
+brew upgrade facebook
 ```
 
 ## Download
 
-Or download the `.dmg` in [releases](https://github.com/aubreypwd/{SLUG}-mac/releases/latest) and install per usual.
+Or download the `.dmg` in [releases](https://github.com/aubreypwd/facebook-mac/releases/latest) and install per usual.
 
-*_Note, you will have to Right-click on the {APPNAME} to open for the first time._*
+*_Note, you will have to Right-click on the Facebook to open for the first time._*
 
 ---
 

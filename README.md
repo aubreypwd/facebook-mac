@@ -1,6 +1,6 @@
 # Facebook
 
-![screenshot](screenshot.png)
+![screenshot](screenshot2.png)
 
 An (unofficial) native MacOS App for Facebook.
 

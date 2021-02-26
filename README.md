@@ -6,26 +6,9 @@ An (unofficial) native MacOS App for Facebook.
 
 # Install
 
-## Homebrew Cask
+Download the `.dmg` in [releases](https://github.com/aubreypwd/facebook-mac/releases/latest) and install per usual or install with:
 
-### Install
-
-```bash
-brew tap aubreypwd/homebrew-cask
-brew update
-brew cask install facebook
-```
-
-### Upgrade
-
-```
-brew update
-brew upgrade facebook
-```
-
-## Download
-
-Or download the `.dmg` in [releases](https://github.com/aubreypwd/facebook-mac/releases/latest) and install per usual.
+- [Homebrew...](https://github.com/aubreypwd/homebrew-cask#facebook)
 
 *_Note, you will have to Right-click on the Facebook to open for the first time._*
 
